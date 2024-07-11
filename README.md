@@ -30,3 +30,9 @@ Learning Materials for Large Model
 
 # Projects
 
+1. [nanoGPT](https://github.com/hl0929/nanoGPT)
+2. [OLMo](https://github.com/hl0929/OLMo)
+3. [FastChat](https://github.com/hl0929/FastChat)
+4. [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+5. [Llama 3](https://github.com/meta-llama/llama3)
+6. [The Alignment Handbook](https://github.com/huggingface/alignment-handbook)
